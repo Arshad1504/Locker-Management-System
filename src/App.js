@@ -79,8 +79,8 @@ const App = () => {
 
   return (
     <Fragment>
-      <div>
-        <h1>Locker System Setup</h1>
+      <div id="locker-system-setup">
+        <h1 style={{ color: "white" }}>Locker System Setup</h1>
         <input
           type="number"
           placeholder="Rows"
